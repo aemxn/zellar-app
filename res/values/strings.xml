@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zellar</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_camera">Capture</string>
+    <string name="action_category">Category</string>
+    <string name="category_title">Categories</string>
+    <string name="title_submit_item">Submit an Item</string>
+    <string name="item_detail_title">Item Details</string>
+    <string name="title_register">Register New Account</string>
+    <string name="title_user_profile">User Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_title">Select Category</string>
+
+    <!-- Login screen -->
+    <string name="txt_to_register">Create new account</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_to_login">Already have an account? Log In</string>
+
+    <string-array name="sell_array">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
+
+    <string name="title_activity_comment_list">Comments</string>
+    <string name="title_activity_user_settings">User Settings</string>
+    <string name="title_activity_bid">BidActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/support-v4-18.0.1-256254f88aa8c236c7721bc12b7323d1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/picasso-2.0.2-56f366d44d2d7f91eb9191b2938420a2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/holoeverywhere library-76f5e89dabed90c0e9c8bccb9689550f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

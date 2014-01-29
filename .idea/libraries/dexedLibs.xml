@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/com.haarman.listviewanimations-2.5.2-aadd10b03577e8d6e2edfbae6e2e4576.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/holoeverywhere library-76f5e89dabed90c0e9c8bccb9689550f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/picasso-2.1.1-854ad6774f701ba7b2df15d10020cbf4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/support-v4-18.0.4-f91310684b145f0b9ba666848a8d04f8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/google-play-services_lib-ff980ca0f346e0f4cd8f80958b4ab92f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/nineoldandroids-2.4.0-a1d14095472b8d002df69ce921fb8398.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/cardsui library-afe836aa3b3410feca2a0471808fd173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/google-play-services-12f21ac5c87fa4e8fbc38123937025ec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

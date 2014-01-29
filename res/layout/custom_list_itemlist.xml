@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background_white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <!-- Album id / Hidden by default -->
+
+    <TextView
+        android:id="@+id/category_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <!-- Song id / Hidden by default -->
+
+    <TextView
+        android:id="@+id/item_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/item_photo_small"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/track_no"
+        android:src="@android:drawable/presence_invisible" />
+
+    <!-- Track serial no -->
+
+    <TextView
+        android:id="@+id/track_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="1."
+        android:textColor="@color/hint_color"
+        android:textSize="10sp" />
+
+    <!-- Song Name -->
+
+    <TextView
+        android:id="@+id/category_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/item_photo_small"
+        android:paddingBottom="15dip"
+        android:paddingLeft="5dip"
+        android:paddingTop="15dip"
+        android:text="Name"
+        android:textColor="#000000"
+        android:textSize="13sp" />
+
+    <!-- Song duration -->
+
+    <TextView
+        android:id="@+id/item_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="3dip"
+        android:paddingRight="6dip"
+        android:text="20"
+        android:textColor="@color/hint_color"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/txt_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/item_price"
+        android:text="Price:"
+        android:textColor="@color/hint_color"
+        android:textSize="10sp" />
+
+</RelativeLayout>

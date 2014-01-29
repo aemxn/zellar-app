@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CardsUI Library/CardsUI Library.iml" filepath="$PROJECT_DIR$/../CardsUI Library/CardsUI Library.iml" />
+      <module fileurl="file://$USER_HOME$/git/HoloEverywhere/HoloEverywhere.iml" filepath="$USER_HOME$/git/HoloEverywhere/HoloEverywhere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zellar.iml" filepath="$PROJECT_DIR$/Zellar.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/android-sdks.iml" filepath="$USER_HOME$/android-sdks/android-sdks.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/extras/extras.iml" filepath="$USER_HOME$/android-sdks/extras/extras.iml" />
+      <module fileurl="file://$USER_HOME$/git/git.iml" filepath="$USER_HOME$/git/git.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/extras/google/google.iml" filepath="$USER_HOME$/android-sdks/extras/google/google.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="$USER_HOME$/android-sdks/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/extras/google/google_play_services/google_play_services.iml" filepath="$USER_HOME$/android-sdks/extras/google/google_play_services/google_play_services.iml" />
+      <module fileurl="file://$USER_HOME$/android-sdks/extras/google/google_play_services/libproject/libproject.iml" filepath="$USER_HOME$/android-sdks/extras/google/google_play_services/libproject/libproject.iml" />
+      <module fileurl="file://$USER_HOME$/git/HoloEverywhere/library/library.iml" filepath="$USER_HOME$/git/HoloEverywhere/library/library.iml" />
+      <module fileurl="file://$USER_HOME$/piracyde25.iml" filepath="$USER_HOME$/piracyde25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workspace.iml" filepath="$PROJECT_DIR$/../workspace.iml" />
+    </modules>
+  </component>
+</project>
+
